@@ -4,13 +4,13 @@ Take webcam shots from target just sending a malicious link
 <img src="https://i.ibb.co/9grHxRy/1.jpg">
 
 ## Installation Command:
-```
-apt update
-apt install git python python2 wget php openssh -y
-git clone https://github.com/htr-tech/cheese
-cd cheese
-bash cheese.sh
-```
+
+* ```apt update```
+* ```apt install git python python2 wget php openssh -y```
+* ```git clone https://github.com/htr-tech/cheese```
+* ```cd cheese```
+* ```bash cheese.sh```
+
 ## Single Command:
 ```
 apt update && apt install git python python2 wget php openssh -y && git clone https://github.com/htr-tech/cheese && cd cheese && bash cheese.sh
