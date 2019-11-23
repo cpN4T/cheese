@@ -1,7 +1,7 @@
 # Cheese !!
 Take webcam shots from target just sending a malicious link
 
-<img src="https://i.ibb.co/9grHxRy/1.jpg" alt="1" border="0">
+<img src="https://i.ibb.co/9grHxRy/1.jpg">
 
 ## Installation Command:
 ```
