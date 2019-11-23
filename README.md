@@ -23,7 +23,7 @@ apt update && apt install git python python2 wget php openssh -y && git clone ht
 * Port Forwarding Command
 ```ssh -R 80:localhost:3000 serveo.net```  or  ```ssh -R 80:localhost:3333 ssh.localhost.run```
 
-#### Credit : `https://github.com/thelinuxchoice/ `
+#### Credit : https://github.com/thelinuxchoice/
 
     
 ## [+] Find Me on :
