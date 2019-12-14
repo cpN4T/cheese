@@ -19,7 +19,7 @@ printf "\e[1;92m| |____| | | |  __/  __/\__ \  __/\e[0m\e[1;94m ##     #####    
 printf "\e[1;92m \_____|_| |_|\___|\___||___/\___|\e[0m\e[1;94m    #############\e[0m\n"
 
 printf "\n"
-printf " \e[1;93m Upgraded by: tahmid rayat ft. htr-tech\e[0m \n"
+printf " \e[1;93m Upgraded by: htr-tech (tahmid.rayat)\e[0m \n"
 
 printf "\n"
 
